@@ -20,7 +20,7 @@ module.exports = {
             flex: {
                 "single": "0 0 100%",
                 "double": "0 0 50%",
-                "triple": "0 0 33.333333%"
+                "triple": "0 0 10%"
             },
             fontSize: {
                 "tiny": "0.925rem"
