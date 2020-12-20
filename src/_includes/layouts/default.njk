@@ -38,11 +38,11 @@
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
         <link rel="stylesheet" href="{{ '/assets/css/main.css' | url }}">
-	</head>	
-  
+	</head>
+
 	<body class="flex flex-col h-screen bg-white text-gray-800 leading-normal break-words">
         {% include "partials/header.njk" %}
-        <main class="mx-7 lg:mx-6 mt-32 flex-grow">
+        <main class="mx-7 lg:mx-6 mt-32 flex-wrap">
             {% if layout === "post" %}
             {{ content | safe }}
             {% else %}
