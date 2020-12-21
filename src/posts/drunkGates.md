@@ -2,10 +2,11 @@
 title: "Drunk Gates"
 date: 2020-12-20
 thumb: "drunkGatesModule.png"
-tags: eurorack 
-- arduino 
-- synth
-- module
+tags: 
+       - eurorack 
+       - arduino 
+       - synth
+       - module
 ---
 
 # Drunk Gates
