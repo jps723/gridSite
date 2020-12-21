@@ -6,7 +6,6 @@ tags:
     - Helloworld
 ---
 
-## Hello World 
+## Hello World
 
-Pretending that this is content. 
-
+Pretending that this is content.
